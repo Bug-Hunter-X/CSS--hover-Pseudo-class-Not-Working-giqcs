@@ -1,0 +1,7 @@
+/* bugSolution.css */
+p:hover { 
+  background-color: lightblue; 
+  /* Add other necessary styles */
+}
+
+/*Ensure no conflicting styles override :hover*/
